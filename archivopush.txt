@@ -1,1 +1,0 @@
-Hola, este es un archivo para probar mi primer push en Git.
